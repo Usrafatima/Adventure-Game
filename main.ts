@@ -145,7 +145,7 @@ async function main() {
         Warriorhp -=27
         console.log(`Your Hp : ${userHp}`);
         console.log(`Warrior's Hp : ${Warriorhp}`);
-        console.log(chalk.yellowBright(" # You have taken too much damage, you are weak to go on ! #  \n # You limp out of dungeon , weak from battle  #! \n ###########################  \n ! Thanks from playing ! \n ########################### " ))
+        console.log(chalk.yellowBright(" # You have defeated Warrior #  \n # You Won #! \n ###########################  \n ! Thanks for playing ! \n ########################### " ))
     }
 }
 
